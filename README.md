@@ -1,6 +1,6 @@
-#Love Yourself
+# Love Yourself
 
-##What is this app?
+## What is this app?
 Life is hard.
 
 As technology has improved our lives, we spend gradually more of our days in front screens and whiddling the time away on our phones. Sometimes though, this leads to us losing touch with the real world and ourselves.
